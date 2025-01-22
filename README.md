@@ -11,8 +11,8 @@ const borja = {
     askMeAbout: ["web dev", "japan", "gaming"],
     technologies: {
         frontEnd: ["JavaScript", "HTML", "CSS", "Bootsrap", "React"],
-        backEnd: ["Python", "Odoo", "MongoDB", "NodeJS"],
-        DB: ["PostgreSQL", "MySQL],
+        backEnd: ["Python", "Odoo", "NodeJS"],
+        DB: ["PostgreSQL", "MySQL","MongoDB"],
         misc: ["Firebase",'GNU/Linux', "Jira", "Notion"],
         incoming: ["Web App deployment"],
     }
