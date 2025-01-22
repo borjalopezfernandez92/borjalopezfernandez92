@@ -10,11 +10,11 @@ const borja = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "japan", "gaming"],
     technologies: {
-        frontEnd: ["JavaScript", "HTML", "CSS", "Bootsrap"],
-        backEnd: ["Python", "Odoo"],
-        DB: ["PostgreSQL"],
-        misc: ["Firebase",'GNU/Linux'],
-        incoming: ["React", "Node", "Mongo", "MySql"],
+        frontEnd: ["JavaScript", "HTML", "CSS", "Bootsrap", "React"],
+        backEnd: ["Python", "Odoo", "MongoDB", "NodeJS"],
+        DB: ["PostgreSQL", "MySQL],
+        misc: ["Firebase",'GNU/Linux', "Jira", "Notion"],
+        incoming: ["Web App deployment"],
     }
 };
 ```
