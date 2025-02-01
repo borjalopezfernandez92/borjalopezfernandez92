@@ -8,17 +8,16 @@
 ```javascript
 const borja = {
     pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "japan", "gaming"],
+    askMeAbout: ["web dev", "japan", "TableTopGames"],
     technologies: {
-        frontEnd: ["JavaScript", "HTML", "CSS", "Bootsrap", "React"],
-        backEnd: ["Python", "Odoo", "NodeJS"],
-        DB: ["PostgreSQL", "MySQL","MongoDB"],
-        misc: ["Firebase",'GNU/Linux', "Jira", "Notion"],
-        incoming: ["Web App deployment"],
+        SoftwareDevelopment: ["Git/Github", "SOLID", "MVC (MERN Stack)", "JavaScript ES6", "HTML", "CSS", "React", "Node", "Express", "MongoDB", "MySql", "Python", "PostgreSQL"],
+        Devops: ["Odoo"],
+        ProjectManagement: ["VS Code", "Teams", "Discord", "Notion","Atlassian Tools(Trello, Jira, Confluence)"],
+        Misc: ["Firebase","GNU/Linux", "BootStrap"],
+        incoming: ["Docker, Kubernetes"],
     }
 };
 ```
 ### Contact <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ2a3huOGptNGJyM2ZnMTdscGM2bXNqMnY4Z2R0YmljdWtnOHhjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7aCVzTmaVkDWpXYk/giphy.webp" width="50">
-<a href="https://www.linkedin.com/in/borja-lopez-287ab631a/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Linkedin-38a3a5?style=flat&logo=linkedin"></a>
 <a href="mailto:borjalopezfernandez92@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-38a3a5?style=flat&logo=gmail"></a>
 
