@@ -10,7 +10,7 @@ const borja = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "japan", "TableTopGames"],
     technologies: {
-        SoftwareDevelopment: ["Git/Github", "SOLID", "MVC (MERN Stack)", "JavaScript ES6", "HTML", "CSS", "React", "Node", "Express", "MongoDB", "MySql", "Python", "PostgreSQL"],
+        SoftwareDevelopment: ["Git/Github", "SOLID", "MVC (MERN Stack)", "JavaScript ES6", "HTML", "CSS", "React", "Node", "Express", "MongoDB", "MySql","PL/SQL", "Python", "PostgreSQL"],
         Devops: ["Odoo"],
         ProjectManagement: ["VS Code", "Teams", "Discord", "Notion","Atlassian Tools(Trello, Jira, Confluence)"],
         Misc: ["Firebase","GNU/Linux", "BootStrap"],
