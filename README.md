@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Borja.</h2>
-<p><em>Junior web developer</em></p>
+<p><em>Full Stack web developer very experienced in international work environments.</em></p>
 
 
 
